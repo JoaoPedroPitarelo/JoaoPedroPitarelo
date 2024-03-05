@@ -1,19 +1,3 @@
-### Hi there 👋
-<!--
-**JoaoPedroPitarelo/JoaoPedroPitarelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=110DF6&size=35&center=true&vCenter=true&width=1000&lines=Bem+Vindo!;Ao+meu+GitHub!;Meu+nome+é+João+Pedro+Pitarelo)](https://git.io/typing-svg)
 
 <!--Stats-->
@@ -22,18 +6,19 @@ Here are some ideas to get you started:
   <img  width=46.5% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroPitarelo&layout=compact&theme=transparent" />
 
 </div>    
-
 <br>
+
+## Ferramentas e linguagens:
  
-#### Stack principal:
+### Stack principal:
 [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org)
 
-#### Estudando nesse momento:
+### Estudando nesse momento:
 [<img height="48px" width="48px" alt="C++" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com)
 [<img height="48px" width="48px" alt="Python" src="https://skillicons.dev/icons?i=py"/>](https://www.python.org)
 [<img height="48px" width="48px" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com)
 
-#### Ferramentas:
+### Ferramentas:
 [<img height="48px" width="48px" alt="Linux" src="https://skillicons.dev/icons?i=linux"/>](https://www.linuxfoundation.org)
 [<img height="48px" width="48px" alt="Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
@@ -51,5 +36,13 @@ Skills: `C++` `MySQL` `C#` `PHP` `Web development` `Requirements Engineering` `S
 **Python Básico ao Avançado** \
 [**Udemy**](https://www.dio.me/users/mateus_alves274)  • Em progresso\
 Skills: `Python` `Django` `MySQL` `Automations`
+
+<br>
+
+<div>
+  <a href="www.linkedin.com/in/joão-pedro-salmazo-pitarelo-b12b71264" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/joaopedropitarelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
+</div>
 
 
