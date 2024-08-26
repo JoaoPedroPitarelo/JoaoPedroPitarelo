@@ -39,14 +39,10 @@ Skills: `C++` `MySQL` `C#` `PHP` `Web development` `Requirements Engineering` `S
 [**Udemy**](https://www.dio.me/users/mateus_alves274)  • Em progresso 25%\ 
 Skills: `Python` `Django` `MySQL` `Automations`
 
-<br>
-
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"/>](https://www.udemy.com/user/joao-pedro-pitarelo/)
 **Java Completo** \
 [**Udemy**](https://www.dio.me/users/mateus_alves274)  • Em progresso 25%\ 
 Skills: `Python` `Django` `MySQL` `Automations`
-
-<br>
 
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-salmazo-pitarelo-b12b71264/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
