@@ -36,7 +36,14 @@ Skills: `C++` `MySQL` `C#` `PHP` `Web development` `Requirements Engineering` `S
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"/>](https://www.udemy.com/user/joao-pedro-pitarelo/)
 **Python Básico ao Avançado** \
-[**Udemy**](https://www.dio.me/users/mateus_alves274)  • Em progresso\
+[**Udemy**](https://www.dio.me/users/mateus_alves274)  • Em progresso 25%\ 
+Skills: `Python` `Django` `MySQL` `Automations`
+
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="![image](https://github.com/user-attachments/assets/a4ce1490-5f31-4744-bf99-6c7a7e4b68ba)
+"/>](https://www.udemy.com/user/joao-pedro-pitarelo/)
+**Python Básico ao Avançado** \
+[**Udemy**](https://www.dio.me/users/mateus_alves274)  • Em progresso 25%\ 
 Skills: `Python` `Django` `MySQL` `Automations`
 
 <br>
