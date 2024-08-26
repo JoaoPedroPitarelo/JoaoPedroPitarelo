@@ -34,20 +34,20 @@ Skills: `C++` `MySQL` `C#` `PHP` `Web development` `Requirements Engineering` `S
 `Project Management` `Software Development` `Software Quality`
 `Software Engineering`
 
+[<img align="left" height="80px" width="80px" alt="Java Logo" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"/>](https://www.udemy.com/user/joao-pedro-pitarelo/)
+**Java Completo** \
+[**Udemy**](https://www.udemy.com/user/joao-pedro-pitarelo/)  • Em progresso 25% \
+Skills: `Java` 
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"/>](https://www.udemy.com/user/joao-pedro-pitarelo/)
 **Python Básico ao Avançado** \
 [**Udemy**](https://www.dio.me/users/mateus_alves274)  • Em progresso 25%\ 
 Skills: `Python` `Django` `MySQL` `Automations`
 
-[<img align="left" height="80px" width="80px" alt="Warpnet" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"/>](https://www.udemy.com/user/joao-pedro-pitarelo/)
-**Java Completo** \
-[**Udemy**](https://www.dio.me/users/mateus_alves274)  • Em progresso 25%\ 
-Skills: `Python` `Django` `MySQL` `Automations`
+<br>
+<br>
 
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-salmazo-pitarelo-b12b71264/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/joaopedropitarelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 </div>
-
-
