@@ -3,6 +3,7 @@
  
 #### Stack principal:
 [<img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com)
+[<img height="48px" width="48px" alt="Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://www.java.com)
 
 #### Estudando nesse momento:
 [<img height="48px" width="48px" alt="Java" src="https://skillicons.dev/icons?i=java"/>](https://www.java.com)
